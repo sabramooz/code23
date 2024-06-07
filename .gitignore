@@ -1,2 +1,8 @@
 *.sql
+!t.sql
 *.db
+
+
+# test
+
+Folder/
